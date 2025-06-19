@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
     // Declaring and initializing an array
-    arr := [5]int{1, 2, 3, 4, 5}
+    arr := [5]uint8{1, 2, 3, 4, 5}
 
     // Accessing elements
     fmt.Println("Element at index 0:", arr[0]) // Outputs: 1
